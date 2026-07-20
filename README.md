@@ -316,13 +316,13 @@ This project is designed for African energy management needs. Contributions that
 
 ## Contact
 
-- **Location**: Ndola, Zambia, Africa
-- **Phone**: +260970665941
-- **Email**: mukelabaidaniel.sc@example.com
-- **GitHub**: Daniel Mukelabai
-- **Repository**: https://github.com/FreDrickMwepu/energy_management_platform
+- **Location**: Lusaka, Zambia, Africa
+- **Phone**: +260770570172
+- **Email**: simuvwenzebenjamin@gmail.com
+- **GitHub**:   Benjamin Simuvwenze
+- **Repository**: https://github.com/BenjaminSimuvwenze/energy_BsTechnologies.com
 
 ## License
 
-© 2025 African Energy Monitoring Software. All rights reserved.
-Developed by FreDrickMwepu - Zambian Energy Solutions
+© 2026 African Energy Monitoring Software. All rights reserved.
+Developed by Benjamin Simuvwenze - Founder/CEO BS Technologies Inc
