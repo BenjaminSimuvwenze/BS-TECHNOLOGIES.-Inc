@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# African Energy Monitoring Platform - Installation Script
+# BS Technologies Energy Management  Platform - Installation Script
 # This script helps set up the platform for development or production
 
-echo "🌍 African Energy Monitoring Platform - Installation Script"
+echo "🌍 BS Technologies Energy Management  Platform - Installation Script"
 echo "=========================================================="
 
 # Colors for output
